@@ -1,0 +1,6 @@
+class Cal{
+	public static void main(String[] args){
+		//developer
+		add(10,20);
+	}
+}
